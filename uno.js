@@ -1,4 +1,3 @@
-# classPrimero
 
 class Empleado{
     
